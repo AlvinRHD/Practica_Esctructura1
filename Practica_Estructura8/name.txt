@@ -1,0 +1,3 @@
+& C:/Users/ezequ/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/ezequ/OneDrive/Escritorio/UNIVO-02-2023/Estructura de datos/Repositorio_Practicas/Practica_Estructura8/Ejercicios/ejercicio3.py"
+hola
+nombre
